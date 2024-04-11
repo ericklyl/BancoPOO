@@ -1,2 +1,2 @@
 # BancoPOO
-Sistema bancaria em JAVA
+Sistema bancario em JAVA
